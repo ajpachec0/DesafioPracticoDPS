@@ -1,0 +1,6 @@
+export default {
+    BACKGROUND_PRINCIPAL: '#D11238',
+    BACKGROUND_DARKER: '#6F0419',
+    LIGHT_PURPLE: '#752A39',
+    FONT_COLOR: '#FFFFFF',
+  };
